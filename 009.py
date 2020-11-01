@@ -147,7 +147,7 @@ jalan("    \033[1;94m▇▇\033[1;98m                        AUTHOR             
 jalan("    \033[1;94m▇▇\033[1;98m          This Tools Is Created By              \033[1;93m▇▇")
 jalan("    \033[1;94m▇▇\033[1;98m                ALI XP XIDI PAKISYANI          \033[1;93m▇▇")
 jalan("    \033[1;93m▇▇\033[1;98m       YOUTUBE   XIDI PAKISTANI             \033[1;93m▇▇")
-jalan("    \033[1;94m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")""
+jalan("    \033[1;94m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
 
 CorrectUsername = "XP"
 CorrectPassword = "XIDI"
